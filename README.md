@@ -1,1 +1,1 @@
-# Stock-market-analysis-using-ANN
+# Stock-market-analysis-using-LSTM
